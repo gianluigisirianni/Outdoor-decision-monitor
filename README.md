@@ -2,6 +2,12 @@
 
 Dashboard Streamlit che trasforma i risultati del progetto `outdoor-api-monitor` in una vista operativa per pianificare uscite o riprese outdoor.
 
+## Demo live
+
+[Apri Outdoor decision monitor su Streamlit Community Cloud](https://outdoor-decision-monitor.streamlit.app/)
+
+La demo utilizza i dati CSV inclusi nel repository e non richiede credenziali o configurazione di secrets.
+
 ## Cosa mostra
 
 - temperatura e probabilità di precipitazione per località e giorno;
