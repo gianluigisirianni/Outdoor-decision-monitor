@@ -1,0 +1,14 @@
+timestamp,localita,status_http,numero_record,durata,esito,errore
+2026-11-07T12:05:54,Tre Cime di Lavaredo,200,168,1.985,ok,
+2026-11-07T12:05:54,Sentiero degli Dei,200,168,1.387,ok,
+2026-11-07T12:05:54,Gran Paradiso,200,168,1.382,ok,
+2026-11-07T12:18:03,Tre Cime di Lavaredo,200,168,1.374,ok,
+2026-11-07T12:18:03,Richiesta non valida (test),400,0,1.519,errore,richiesta fallita dopo 1 tentativo/i (ultimo status=400): 400 Client Error: Bad Request for url: https://api.open-meteo.com/v1/forecast?latitude=46.6189&longitude=12.3026&hourly=variabile_inesistente_xyz
+2026-11-07T12:18:03,Sentiero degli Dei,200,168,1.343,ok,
+2026-11-07T12:18:03,Gran Paradiso,200,168,1.919,ok,
+2026-11-07T15:29:00,Tre Cime di Lavaredo,200,168,0.588,ok,
+2026-11-07T15:29:00,Sentiero degli Dei,200,168,0.471,ok,
+2026-11-07T15:29:00,Gran Paradiso,200,168,0.461,ok,
+2026-11-07T15:30:47,Andalo,200,168,0.59,ok,
+2026-11-07T15:30:47,Molveno,200,168,0.523,ok,
+2026-11-07T15:30:47,Fieberbrunn,200,168,0.467,ok,
